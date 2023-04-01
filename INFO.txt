@@ -1,0 +1,1 @@
+. Very important point is that windows automatically deletes this file if scanned so make sure you have all the antiviruses off if windows is above win 8, hasn't been tested on windows 8 though but works well on win 7, xp, and vista.
